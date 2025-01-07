@@ -1,7 +1,5 @@
 # Welcome to Kalpa Studios!
 
-<!-- <img src="./img/kalpa.png" /> -->
-
 ## About Us
 
 At Kalpa Studios, we are passionate about developing innovative solutions that make a difference. Our team is dedicated to creating high-quality software that drives efficiency, enhances user experience, and solves real-world problems.
